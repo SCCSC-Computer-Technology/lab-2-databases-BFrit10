@@ -1,0 +1,23 @@
+Lab 2 Code Review
+Brieana Hunter
+
+First Impressions:
+I like the application's size. I like that it kinda looks like a phone application with the more vertical alignment. I also like how it is more minimalist, with only 5 buttons instead of one for each population function (average, total, highest, lowest). I also LOVE the idea of having a message box for the population stats; it makes the GUI less crowded and allows users to focus on the data without it being overwhelming on the eyes.
+
+
+Readability:
+The code is very easy to read, not overly complicated, and easy to follow. I like how you coded this program; it is very simple, which I really like. I wish I had coded my program like this; it would have saved lots of time. There are no comments in the code, but I also forgot to include them because I feel like most functions explain themselves in this program.
+
+
+Software Error:
+I did not notice any errors.
+
+
+How Our Programs Differ:
+Our programs are quite different, for example, to sort the population I did-
+cityBindingSource.Sort = "Population ASC"; 
+However, I really like the way you wrote your code, and I think I will use it in future projects.
+
+
+Constrictive Criticism:
+I don't have any criticism. I really enjoyed looking at your code, and you taught me something new.
