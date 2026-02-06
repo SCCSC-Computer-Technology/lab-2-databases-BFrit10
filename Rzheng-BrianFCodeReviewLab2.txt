@@ -1,0 +1,10 @@
+Hey Brian, your form is very well made and neatly laid out. One small thing I noticed is that the primary key (ID) appears to show an index of -1 when a new row is added.
+This doesn’t break the application or affect functionality, but from a user perspective, it might be clearer if the indexing + 1 instead.
+
+One thing we did do similarly was that we mainly used SQL in the cityTableAdpater and our queries look very similar. A minor thing would be to add more comments to your code. I only saw the default comments that visual studio would leave.
+Anotherthing would be to string mask the population total, shown by clicking the "Get Population" button, with the appropriate commas. For example, 100000 would be 100,000. 
+
+Lastly, I might be misunderstanding something, but I saw the cityBindingNavigatorSaveItem_Click event. I belived that the code inside the method is to update changes made from the grid to the database.
+ However, when I do make a change whether it's updating a field, deleting a row or inserting one, it does not save the changes.
+
+But overall, great job!
